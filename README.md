@@ -8,6 +8,7 @@
   
   <ul>
     <li>Make a Game</li>
+    <li>Make a Side Project with GoLang</li>
     <li>Learn Django</li>
   </ul>
   
